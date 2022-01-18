@@ -1,0 +1,17 @@
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\appsettings.Development.json
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\appsettings.json
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\bower.json
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\bundleconfig.json
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\PizzaOS.deps.json
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\PizzaOS.runtimeconfig.json
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\PizzaOS.runtimeconfig.dev.json
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\PizzaOS.dll
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\Debug\netcoreapp2.0\PizzaOS.pdb
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\Debug\netcoreapp2.0\PizzaOS.csprojAssemblyReference.cache
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\Debug\netcoreapp2.0\PizzaOS.csproj.CoreCompileInputs.cache
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\Debug\netcoreapp2.0\PizzaOS.AssemblyInfoInputs.cache
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\Debug\netcoreapp2.0\PizzaOS.AssemblyInfo.cs
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\Debug\netcoreapp2.0\PizzaOS.dll
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\Debug\netcoreapp2.0\PizzaOS.pdb
+G:\OnlinePizzaWebShop-master\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\Debug\netcoreapp2.0\PizzaOS.genruntimeconfig.cache
