@@ -1,0 +1,31 @@
+
+ [
+     {
+     "type": "Cheese Pizza",
+     "image_url": "./assets/cheese.jpg",
+     "topping": "Cheese",
+     "popularity": "Everyone",
+    "description": "Classic marinara sauce topped with whole milk mozzarella cheese."
+    },
+    {
+     "type": "Pepporoni Pizza",
+     "image_url": "./assets/peppo.jpg",
+     "topping": "Pepperoni",
+     "popularity": "Meat Eaters",
+    "description": "Classic marinara sauce topped with whole milk mozzarella cheese."
+    },
+    {
+     "type": "Meat Lovers",
+     "image_url": "./assets/meat.jpg",
+     "topping": "All the meat",
+     "popularity": "Meat Eaters",
+    "description": "Classic marinara sauce, authentic old-world pepperoni, all-natural Italian sausage, slow-roasted ham, hardwood smoked bacon, seasoned pork and beef."
+    },
+    {
+     "type": "Veggie Lovers",
+     "image_url": "./assets/veggie.jpg",
+     "topping": "All the veggies",
+     "popularity": "Vegetareans",
+    "description": "Classic marinara sauce made of 100% California grown vine-ripened tomatoes, fresh mushrooms, fresh red onions, fresh green bell peppers, Roma tomatoes and black olives."
+    }
+ ]

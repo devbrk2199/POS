@@ -1,0 +1,26 @@
+<div class="modal" id="pizza-info">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>{{activePizza.type}}</h2>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-xs-8 col-xs-offset-2">
+              <img src="{{activePizza.image_url}}" alt="{{activePizza.description}}" class="img-responsive center-block" />
+            </div>
+            <div class="row top-buffer"></div>
+            <div class="col-md-12">
+              <p><strong>Toppings: </strong>{{activePizza.topping}}</p>
+              <p><strong>Popularity: </strong>{{activePizza.type}}</p>
+              <p><strong>Description: </strong>{{activePizza.description}}</p>
+            </div>
+            <div class="col-xs-12 top-buffer">
+              <button class="btn btn-danger pull-right" (click)="close()">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+

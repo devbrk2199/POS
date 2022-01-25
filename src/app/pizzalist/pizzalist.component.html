@@ -1,0 +1,30 @@
+
+<div class="container">
+    <div class="page-header">
+      <h1>Pizza Online System</h1>
+    </div>
+    <div  >
+      <div  class="form-inline well well-sm clearfix"  >
+        <span class="glyphicon glyphicon-search"></span>
+        <input type="text" class="form-control " [(ngModel)]="searchText" 
+        placeholder="Search">
+      </div>
+      <div class="row">
+        <div class="col-sm-6" *ngFor =" let pizza of pizzaList |search:searchText  ">
+          <div class="well well-sm">
+            <div class="row">
+              <div class="col-md-6">
+                <img src="{{pizza.image_url}}" alt="{{pizza.description}}" class="img-responsive center-block"/>  
+              </div>
+              <div class="col-md-6">
+                <h3>{{pizza.type}}</h3>
+                <p><strong>Toppings: </strong>{{pizza.topping}}</p>
+                <p><strong>Popularity: </strong>{{pizza.popularity}}</p>
+                <button class="btn btn-primary"  (click)="changeActivePizza(pizza)">Pizza Details</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
